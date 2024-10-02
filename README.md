@@ -1,4 +1,4 @@
-# Welcome to the DigitalOcean GHW: Cloud Week Challenge Page!
+# Welcome to the DigitalOcean GHW: Open Source Week Challenge Page!
 
 Whether you're building world-changing AI apps or working on a side project, DigitalOcean's cloud platform has the solutions that hackers like you need to succeed! <br><br>
 If you're looking for a great cloud provider, DigitalOcean has what you need. 
